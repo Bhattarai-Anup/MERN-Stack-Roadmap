@@ -1,4 +1,4 @@
-# Programming Logic Building — Detailed Questions (No Mandatory Loops)
+# Programming Logic Building — Detailed Questions
 
 ---
 
